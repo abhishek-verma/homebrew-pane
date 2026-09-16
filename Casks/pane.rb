@@ -1,9 +1,9 @@
 cask "pane" do
-  version "0.47.0.91"
+  version "0.47.0.92"
 
   on_arm do
     url "https://github.com/abhishek-verma/Pane/releases/download/v\#{version}/Pane_v\#{version}_arm64.dmg"
-    sha256 "a234be99d2c571cb22e4a2bf8eae76cb044e9f3aff52802d35e52f4795108d74"
+    sha256 "956a4822ec679b346672d17386706a6e912dbb38dfd722a848ccc80c90b53237"
   end
 
   name "Pane"
